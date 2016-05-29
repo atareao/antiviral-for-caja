@@ -1,0 +1,128 @@
+# French translation for antiviral
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the antiviral package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: antiviral-for-caja 0.0.1\n"
+"Report-Msgid-Bugs-To: lorenzo.carbonell.cerezo@gmail.com\n"
+"POT-Creation-Date: 2016-05-28 20:43+0200\n"
+"PO-Revision-Date: 2012-08-16 05:04+0000\n"
+"Last-Translator: Sylvie Gallet <Unknown>\n"
+"Language-Team: French <fr@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"X-Generator: Launchpad (build 16640)\n"
+"X-Launchpad-Export-Date: 2013-05-26 09:04+0000\n"
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/antiviral-for-caja/src/antiviral-caja-extension.py:93
+msgid "Scan folder"
+msgstr ""
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/antiviral-for-caja/src/antiviral-caja-extension.py:94
+msgid "Scan this folder"
+msgstr ""
+
+#~ msgid "Del."
+#~ msgstr "Suppr."
+
+#~ msgid "Qua."
+#~ msgstr "Qua."
+
+#~ msgid "File"
+#~ msgstr "Fichier"
+
+#~ msgid "Virus"
+#~ msgstr "Virus"
+
+#~ msgid "Execute"
+#~ msgstr "Exécuter"
+
+#~ msgid "There is a file like this in quarentine, remove this new file?"
+#~ msgstr ""
+#~ "Il y a un fichier similaire en quarantaine, retirer ce nouveau fichier ?"
+
+#~ msgid "Scan"
+#~ msgstr "Analyser"
+
+#~ msgid "Exit"
+#~ msgstr "Quitter"
+
+#~ msgid "About"
+#~ msgstr "À propos"
+
+#~ msgid "Update virus database"
+#~ msgstr "Mettre à jour la base de définitions de virus"
+
+#~ msgid "ClamAV version"
+#~ msgstr "Version de ClamAV"
+
+#~ msgid "Folder"
+#~ msgstr "Dossier"
+
+#~ msgid "Add"
+#~ msgstr "Ajouter"
+
+#~ msgid "Remove"
+#~ msgstr "Supprimer"
+
+#~ msgid "Remove all folders"
+#~ msgstr "Supprimer tous les dossiers"
+
+#~ msgid "Select Folder..."
+#~ msgstr "Choisir un dossier..."
+
+#~ msgid "What a pity!, In this machine there are viruses!"
+#~ msgstr "Quel dommage ! Il y a des virus sur cette machine !"
+
+#~ msgid "Congratulations!!, no viruses found"
+#~ msgstr "Féficitations !! Aucun virus trouvé !"
+
+#~ msgid ""
+#~ "A graphical interface for\n"
+#~ "ClamAV"
+#~ msgstr ""
+#~ "Une interface graphique pour\n"
+#~ "ClamAV"
+
+#~ msgid ""
+#~ "This program is free software: you can redistribute it and/or modify it\n"
+#~ "\t\tunder the terms of the GNU General Public License as published by the\n"
+#~ "\t\tFree Software Foundation, either version 3 of the License, or (at your option)\n"
+#~ "\t\tany later version.\n"
+#~ "\n"
+#~ "\t\tThis program is distributed in the hope that it will be useful, but\n"
+#~ "\t\tWITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY\n"
+#~ "\t\tor FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for\n"
+#~ "\t\tmore details.\n"
+#~ "\n"
+#~ "\t\tYou should have received a copy of the GNU General Public License along with\n"
+#~ "\t\tthis program.  If not, see <http://www.gnu.org/licenses/>."
+#~ msgstr ""
+#~ "Ce programme est un logiciel libre : vous pouvez le redistribuer et/ou le modifier\n"
+#~ "\t\tselon les termes de la GNU General Public License tels que publiés par la\n"
+#~ "\t\tFree Software Foundation : à votre choix, soit la version 3 de la licence,\n"
+#~ "\t\tsoit une version ultérieure quelle qu'elle soit.\n"
+#~ "\n"
+#~ "\t\tCe programme est distribué dans l'espoir qu'il sera utile, mais\n"
+#~ "\t\tSANS AUCUNE GARANTIE ; sans même la garantie implicite de QUALITÉ MARCHANDE\n"
+#~ "\t\tou D'ADÉQUATION À UNE UTILISATION PARTICULIÈRE. Pour plus de détails,\n"
+#~ "\t\treportez-vous à la GNU General Public License.\n"
+#~ "\n"
+#~ "\t\tVous devez avoir reçu une copie de la GNU General Public License avec ce \n"
+#~ "\t\tprogramme. Si ce n'est pas le cas, consultez <http://www.gnu.org/licenses/>"
+
+#~ msgid "Scanning..."
+#~ msgstr "Analyse en cours..."
+
+#~ msgid "Antiviral"
+#~ msgstr "Antiviral"
+
+#~ msgid "LibClamAV version"
+#~ msgstr "Version de LibClamAV"
+
+#~ msgid "Signature version"
+#~ msgstr "Version des signatures"

@@ -1,0 +1,149 @@
+# Hungarian translation for antiviral
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the antiviral package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: antiviral-for-caja 0.0.1\n"
+"Report-Msgid-Bugs-To: lorenzo.carbonell.cerezo@gmail.com\n"
+"POT-Creation-Date: 2016-05-28 20:43+0200\n"
+"PO-Revision-Date: 2012-08-27 17:17+0000\n"
+"Last-Translator: Fox <younfox@gmail.com>\n"
+"Language-Team: Hungarian <hu@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
+"X-Generator: Launchpad (build 16640)\n"
+"X-Launchpad-Export-Date: 2013-05-26 09:04+0000\n"
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/antiviral-for-caja/src/antiviral-caja-extension.py:93
+msgid "Scan folder"
+msgstr ""
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/antiviral-for-caja/src/antiviral-caja-extension.py:94
+msgid "Scan this folder"
+msgstr ""
+
+#~ msgid "Del."
+#~ msgstr "Törlés"
+
+#~ msgid "Qua."
+#~ msgstr "Karantén"
+
+#~ msgid "File"
+#~ msgstr "Fájl"
+
+#~ msgid "Virus"
+#~ msgstr "Vírus"
+
+#~ msgid "Execute"
+#~ msgstr "Végrehajtás"
+
+#~ msgid "There is a file like this in quarentine, remove this new file?"
+#~ msgstr ""
+#~ "Egy ehhez hasonló fájl van a karanténban, eltávolítja ezt az új fájlt?"
+
+#~ msgid "Scan"
+#~ msgstr "Vizsgálat"
+
+#~ msgid "Exit"
+#~ msgstr "Kilépés"
+
+#~ msgid "About"
+#~ msgstr "Névjegy"
+
+#~ msgid "Update virus database"
+#~ msgstr "Vírusadatbázis frissítése"
+
+#~ msgid "ClamAV version"
+#~ msgstr "ClamAV verzió"
+
+#~ msgid "Rec."
+#~ msgstr "Felvétel"
+
+#~ msgid "Folder"
+#~ msgstr "Mappa"
+
+#~ msgid "Add"
+#~ msgstr "Hozzáadás"
+
+#~ msgid "Remove"
+#~ msgstr "Eltávolítás"
+
+#~ msgid "Remove all folders"
+#~ msgstr "Minden mappa eltávolítása"
+
+#~ msgid "Select Folder..."
+#~ msgstr "Mappa kiválasztása…"
+
+#~ msgid "What a pity!, In this machine there are viruses!"
+#~ msgstr "Milyen kár! Ezen a gépen vírusok vannak!"
+
+#~ msgid "Congratulations!!, no viruses found"
+#~ msgstr "Gratulálunk!! Nincs vírus találat."
+
+#~ msgid ""
+#~ "A graphical interface for\n"
+#~ "ClamAV"
+#~ msgstr ""
+#~ "Egy grafikus felület ehhez\n"
+#~ "ClamAV"
+
+#~ msgid ""
+#~ "This program is free software: you can redistribute it and/or modify it\n"
+#~ "\t\tunder the terms of the GNU General Public License as published by the\n"
+#~ "\t\tFree Software Foundation, either version 3 of the License, or (at your option)\n"
+#~ "\t\tany later version.\n"
+#~ "\n"
+#~ "\t\tThis program is distributed in the hope that it will be useful, but\n"
+#~ "\t\tWITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY\n"
+#~ "\t\tor FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for\n"
+#~ "\t\tmore details.\n"
+#~ "\n"
+#~ "\t\tYou should have received a copy of the GNU General Public License along with\n"
+#~ "\t\tthis program.  If not, see <http://www.gnu.org/licenses/>."
+#~ msgstr ""
+#~ "Ez a program egy ingyenes szoftver: terjesztheti és/vagy változtathatja szabadon\n"
+#~ "\t\ta GNU General Public License értelmében közzétette a\n"
+#~ "\t\ta Free Software Foundation, akármelyik 3-as verziójú licenc, vagy (ha úgy gondolja)\n"
+#~ "\t\tbármelyik későbbi verzió alapján.\n"
+#~ "\n"
+#~ "\t\tEz a program a hasznosság reményében terjesztett, de\n"
+#~ "\t\tMINDENNEMŰ GARANCIA NÉLKÜL, anélkül, hogy akár a piacképességnek\n"
+#~ "\t\tvagy az egyéni elképzeléseknek megfeleljen. Ismerje meg a GNU General Public License engedélyt\n"
+#~ "\t\ttovábbi információkért.\n"
+#~ "\n"
+#~ "\t\tEgy másolathoz kellett jutnia a GNU General Public License engedélyről\n"
+#~ "\t\tezzel a programmal. Ha nem, keresse fel <http://www.gnu.org/licenses/>."
+
+#~ msgid "main is up to date\n"
+#~ msgstr "a fő naprakész\n"
+
+#~ msgid "main updated\n"
+#~ msgstr "fő frissítve\n"
+
+#~ msgid "daily is up to date\n"
+#~ msgstr "a napi naprakész\n"
+
+#~ msgid "daily updated\n"
+#~ msgstr "napi frissítve\n"
+
+#~ msgid "bytecode is up to date\n"
+#~ msgstr "a bytecode naprakész\n"
+
+#~ msgid "bytecode updated\n"
+#~ msgstr "bytecode frissítve\n"
+
+#~ msgid "Scanning..."
+#~ msgstr "Vizsgálat…"
+
+#~ msgid "Antiviral"
+#~ msgstr "Antiviral"
+
+#~ msgid "LibClamAV version"
+#~ msgstr "LibClamAV verzió"
+
+#~ msgid "Signature version"
+#~ msgstr "Aláírás verzió"

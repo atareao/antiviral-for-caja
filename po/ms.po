@@ -1,0 +1,148 @@
+# Malay translation for antiviral
+# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# This file is distributed under the same license as the antiviral package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: antiviral-for-caja 0.0.1\n"
+"Report-Msgid-Bugs-To: lorenzo.carbonell.cerezo@gmail.com\n"
+"POT-Creation-Date: 2016-05-28 20:43+0200\n"
+"PO-Revision-Date: 2013-02-20 08:35+0000\n"
+"Last-Translator: abuyop <Unknown>\n"
+"Language-Team: Malay <ms@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ms\n"
+"X-Generator: Launchpad (build 16640)\n"
+"X-Launchpad-Export-Date: 2013-05-26 09:04+0000\n"
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/antiviral-for-caja/src/antiviral-caja-extension.py:93
+msgid "Scan folder"
+msgstr ""
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/antiviral-for-caja/src/antiviral-caja-extension.py:94
+msgid "Scan this folder"
+msgstr ""
+
+#~ msgid "Del."
+#~ msgstr "Pdm."
+
+#~ msgid "Qua."
+#~ msgstr "Kuar."
+
+#~ msgid "File"
+#~ msgstr "Fail"
+
+#~ msgid "Virus"
+#~ msgstr "Virus"
+
+#~ msgid "Execute"
+#~ msgstr "Lakukan"
+
+#~ msgid "There is a file like this in quarentine, remove this new file?"
+#~ msgstr "Terdapat fail seperti ini di dalam kuarantin, buang fail baru ini?"
+
+#~ msgid "Scan"
+#~ msgstr "Imbas"
+
+#~ msgid "Exit"
+#~ msgstr "Keluar"
+
+#~ msgid "About"
+#~ msgstr "Perihal"
+
+#~ msgid "Update virus database"
+#~ msgstr "Kemaskini pangkalan data virus"
+
+#~ msgid "ClamAV version"
+#~ msgstr "Versi ClamAV"
+
+#~ msgid "Rec."
+#~ msgstr "Rek."
+
+#~ msgid "Folder"
+#~ msgstr "Folder"
+
+#~ msgid "Add"
+#~ msgstr "Tambah"
+
+#~ msgid "Remove"
+#~ msgstr "Buang"
+
+#~ msgid "Remove all folders"
+#~ msgstr "Buang semua folder"
+
+#~ msgid "Select Folder..."
+#~ msgstr "Pilih Folder..."
+
+#~ msgid "What a pity!, In this machine there are viruses!"
+#~ msgstr "Alamak! Komputer ini dijangkiti virus!"
+
+#~ msgid "Congratulations!!, no viruses found"
+#~ msgstr "Tahniah! tiada virus ditemui"
+
+#~ msgid ""
+#~ "A graphical interface for\n"
+#~ "ClamAV"
+#~ msgstr ""
+#~ "Antaramuka bergrafik untuk\n"
+#~ "ClamAV"
+
+#~ msgid ""
+#~ "This program is free software: you can redistribute it and/or modify it\n"
+#~ "\t\tunder the terms of the GNU General Public License as published by the\n"
+#~ "\t\tFree Software Foundation, either version 3 of the License, or (at your option)\n"
+#~ "\t\tany later version.\n"
+#~ "\n"
+#~ "\t\tThis program is distributed in the hope that it will be useful, but\n"
+#~ "\t\tWITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY\n"
+#~ "\t\tor FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for\n"
+#~ "\t\tmore details.\n"
+#~ "\n"
+#~ "\t\tYou should have received a copy of the GNU General Public License along with\n"
+#~ "\t\tthis program.  If not, see <http://www.gnu.org/licenses/>."
+#~ msgstr ""
+#~ "adalah perisian bebas; anda boleh mengedarkannya dan/atau mengubahsuainya\n"
+#~ "\t\tdibawah terma Pelesenan Awam Am GNU yang diterbitkan oleh\n"
+#~ "\t\tFree Software Foundation, sama ada versi 3 Lesen, atau (mengikut pilihan anda)\n"
+#~ "\t\tsebarang versi terkini.\n"
+#~ "\n"
+#~ "\t\tProgram ini diedarkan dengan harapan ianya akan berguna,\n"
+#~ "\t\tTANPA SEBARANG JAMINAN; termasuk juga KESESUAIAN UNTUK DIPASARKAN, JAMINAN\n"
+#~ "\t\tKUALITI atau JAMINAN ATAS APA JUA SEBAB. Sila lihat Lesen Awam Am GNU untuk\n"
+#~ "\t\tmaklumat lanjut.\n"
+#~ "\n"
+#~ "\t\tAnda seharusnya menerima satu salinan Lesen Awam Am GNU ini bersama-sama dengan\n"
+#~ "\t\tprogram ini. Jika tidak, rujuk <http://www.gnu.org/licenses/>."
+
+#~ msgid "main is up to date\n"
+#~ msgstr "fail utama sudah dikemaskini\n"
+
+#~ msgid "main updated\n"
+#~ msgstr "fail utama dikemaskini\n"
+
+#~ msgid "daily is up to date\n"
+#~ msgstr "fail harian telah dikemaskini\n"
+
+#~ msgid "daily updated\n"
+#~ msgstr "fail harian dikemaskini\n"
+
+#~ msgid "bytecode is up to date\n"
+#~ msgstr "bytecode sudah dikemaskini\n"
+
+#~ msgid "bytecode updated\n"
+#~ msgstr "bytecode dikemaskini\n"
+
+#~ msgid "Scanning..."
+#~ msgstr "Mengimbas..."
+
+#~ msgid "Antiviral"
+#~ msgstr "Antiviral"
+
+#~ msgid "LibClamAV version"
+#~ msgstr "Versi LibClamAV"
+
+#~ msgid "Signature version"
+#~ msgstr "Versi tandatangan"

@@ -1,0 +1,31 @@
+==================
+Antiviral For Caja
+==================
+
+Antiviral extension for Caja
+
+For more information, please visit our website:
+http://launchpad.net/antiviral/
+or
+http://www.atareao.es
+
+============
+Requirements
+============
+
+Required dependencies:
+
+    python,
+    python-gi,
+    antiviral,
+    gir1.2-gtk-3.0,
+    gir1.2-caja,
+    python-caja
+
+========
+Download
+========
+
+Download the package:
+
+    $ bzr branch lp:antiviral

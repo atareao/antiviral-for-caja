@@ -1,0 +1,101 @@
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2012 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# atareao <lorenzo.carbonell.cerezo@gmail.com>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: antiviral-for-caja 0.0.1\n"
+"Report-Msgid-Bugs-To: lorenzo.carbonell.cerezo@gmail.com\n"
+"POT-Creation-Date: 2016-05-28 20:43+0200\n"
+"PO-Revision-Date: 2012-08-05 23:31+0000\n"
+"Last-Translator: Lorenzo Carbonell <Unknown>\n"
+"Language-Team: Spanish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"X-Generator: Launchpad (build 16640)\n"
+"X-Launchpad-Export-Date: 2013-05-26 09:04+0000\n"
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/antiviral-for-caja/src/antiviral-caja-extension.py:93
+msgid "Scan folder"
+msgstr ""
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/antiviral-for-caja/src/antiviral-caja-extension.py:94
+msgid "Scan this folder"
+msgstr ""
+
+#~ msgid "Del."
+#~ msgstr "Borrar"
+
+#~ msgid "Qua."
+#~ msgstr "Cuar."
+
+#~ msgid "File"
+#~ msgstr "Archivo"
+
+#~ msgid "Virus"
+#~ msgstr "Virus"
+
+#~ msgid "Execute"
+#~ msgstr "Ejecutar"
+
+#~ msgid "There is a file like this in quarentine, remove this new file?"
+#~ msgstr ""
+#~ "Existe un archivo como este en cuarentena, ¿borramos este nuevo archivo?"
+
+#~ msgid "Scan"
+#~ msgstr "Escanear"
+
+#~ msgid "Exit"
+#~ msgstr "Salir"
+
+#~ msgid "About"
+#~ msgstr "Acerca de..."
+
+#~ msgid "Update virus database"
+#~ msgstr "Actualizar base de datos de virus"
+
+#~ msgid "ClamAV version"
+#~ msgstr "Versión de ClamAV"
+
+#~ msgid "Folder"
+#~ msgstr "Directorio"
+
+#~ msgid "Add"
+#~ msgstr "Añadir"
+
+#~ msgid "Remove"
+#~ msgstr "Borrar"
+
+#~ msgid "Remove all folders"
+#~ msgstr "Borrar todos los directorios"
+
+#~ msgid "Select Folder..."
+#~ msgstr "Selecciona directorio..."
+
+#~ msgid "What a pity!, In this machine there are viruses!"
+#~ msgstr "Que lástima!!, en este equipo hay virus!"
+
+#~ msgid "Congratulations!!, no viruses found"
+#~ msgstr "Enhorabuena!, no se ha encontrado ningún virus"
+
+#~ msgid ""
+#~ "A graphical interface for\n"
+#~ "ClamAV"
+#~ msgstr ""
+#~ "Un interfaz gráfico para\n"
+#~ "ClamAV"
+
+#~ msgid "Scanning..."
+#~ msgstr "Escaneando..."
+
+#~ msgid "Antiviral"
+#~ msgstr "Antiviral"
+
+#~ msgid "LibClamAV version"
+#~ msgstr "Versión de LibClamAV"
+
+#~ msgid "Signature version"
+#~ msgstr "Signature version"

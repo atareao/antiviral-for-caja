@@ -1,0 +1,19 @@
+Source: antiviral-for-caja
+Section: utils
+Priority: extra
+Maintainer: Lorenzo Carbonell Cerezo <lorenzo.carbonell.cerezo@gmail.com>
+Build-Depends: debhelper (>= 8), python, python-distutils-extra, python-polib
+Standards-Version: 3.9.3
+Homepage: http://www.atareao.es
+
+Package: antiviral-for-caja
+Architecture: all
+Depends: ${misc:Depends}, ${python:Depends},
+	python,
+	python-gi,
+	antiviral,
+	gir1.2-gtk-3.0,
+	gir1.2-caja,
+	python-caja
+Description: Extension of antiviral for caja
+ Extension of antiviral for caja.

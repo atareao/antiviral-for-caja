@@ -1,0 +1,154 @@
+# German translation for antiviral
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the antiviral package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: antiviral-for-caja 0.0.1\n"
+"Report-Msgid-Bugs-To: lorenzo.carbonell.cerezo@gmail.com\n"
+"POT-Creation-Date: 2016-05-28 20:43+0200\n"
+"PO-Revision-Date: 2012-12-18 16:39+0000\n"
+"Last-Translator: Gregor Santner <Unknown>\n"
+"Language-Team: German <de@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"X-Generator: Launchpad (build 16640)\n"
+"X-Launchpad-Export-Date: 2013-05-26 09:04+0000\n"
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/antiviral-for-caja/src/antiviral-caja-extension.py:93
+msgid "Scan folder"
+msgstr ""
+
+#: /home/lorenzo/CloudStation/Programacion/Python/current/antiviral-for-caja/src/antiviral-caja-extension.py:94
+msgid "Scan this folder"
+msgstr ""
+
+#~ msgid "Del."
+#~ msgstr "Entf."
+
+#~ msgid "Qua."
+#~ msgstr "Qua."
+
+#~ msgid "File"
+#~ msgstr "Datei"
+
+#~ msgid "Virus"
+#~ msgstr "Virus"
+
+#~ msgid "Execute"
+#~ msgstr "Ausführen"
+
+#~ msgid "There is a file like this in quarentine, remove this new file?"
+#~ msgstr ""
+#~ "Eine Datei wie diese befindet sich in der Quarantäne, möchten Sie diese "
+#~ "Datei löschen?"
+
+#~ msgid "Scan"
+#~ msgstr "Scan"
+
+#~ msgid "Exit"
+#~ msgstr "Beenden"
+
+#~ msgid "About"
+#~ msgstr "Über"
+
+#~ msgid "Update virus database"
+#~ msgstr "Aktualisiert die Virusdatenbank"
+
+#~ msgid "ClamAV version"
+#~ msgstr "ClamAV Version"
+
+#~ msgid "Rec."
+#~ msgstr "Rec."
+
+#~ msgid "Folder"
+#~ msgstr "Verzeichnis"
+
+#~ msgid "Add"
+#~ msgstr "Hinzufügen"
+
+#~ msgid "Remove"
+#~ msgstr "Entfernen"
+
+#~ msgid "Remove all folders"
+#~ msgstr "Alle Verzeichnisse löschen"
+
+#~ msgid "Select Folder..."
+#~ msgstr "Verzeichnis auswählen..."
+
+#~ msgid "What a pity!, In this machine there are viruses!"
+#~ msgstr "Was für eine Schande!, Auf diesem Computer befinden sich Viren!"
+
+#~ msgid "Congratulations!!, no viruses found"
+#~ msgstr "Gratuliere!!, keine Viren gefunden"
+
+#~ msgid ""
+#~ "A graphical interface for\n"
+#~ "ClamAV"
+#~ msgstr ""
+#~ "Eine grafische Oberfläche für\n"
+#~ "ClamAV"
+
+#~ msgid ""
+#~ "This program is free software: you can redistribute it and/or modify it\n"
+#~ "\t\tunder the terms of the GNU General Public License as published by the\n"
+#~ "\t\tFree Software Foundation, either version 3 of the License, or (at your option)\n"
+#~ "\t\tany later version.\n"
+#~ "\n"
+#~ "\t\tThis program is distributed in the hope that it will be useful, but\n"
+#~ "\t\tWITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY\n"
+#~ "\t\tor FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for\n"
+#~ "\t\tmore details.\n"
+#~ "\n"
+#~ "\t\tYou should have received a copy of the GNU General Public License along with\n"
+#~ "\t\tthis program.  If not, see <http://www.gnu.org/licenses/>."
+#~ msgstr ""
+#~ "Dieses Programm ist freie Software. Sie können es unter den\n"
+#~ "\t\tBedingungen der GNU General Public License, wie von der\n"
+#~ "\t\tFree Software Foundation veröffentlicht, weitergeben\n"
+#~ "\t\tund/oder modifizieren, entweder gemäß Version 3 der Lizenz\n"
+#~ "\t\toder (nach Ihrer Option) jeder späteren Version.\n"
+#~ "\n"
+#~ "\t\tDie Veröffentlichung dieses Programms erfolgt in\n"
+#~ "\t\tder Hoffnung, daß es Ihnen von Nutzen sein wird, aber\n"
+#~ "\t\tOHNE IRGENDEINE GARANTIE, sogar ohne die implizite\n"
+#~ "\t\tGarantie der MARKTREIFE oder der VERWENDBARKEIT\n"
+#~ "\t\tFÜR EINEN BESTIMMTEN ZWECK. Details finden Sie in der\n"
+#~ "\t\tGNU General Public License.\n"
+#~ "\n"
+#~ "\t\tSie sollten ein Exemplar der GNU General Public License\n"
+#~ "\t\tzusammen mit diesem Programm erhalten haben.\n"
+#~ "\t\tFalls nicht, siehe <http://www.gnu.org/licenses/>."
+
+#~ msgid "main is up to date\n"
+#~ msgstr "Hauptdatenbank ist aktuell\n"
+
+#~ msgid "main updated\n"
+#~ msgstr "Hauptdatenbank aktualisiert\n"
+
+#~ msgid "daily is up to date\n"
+#~ msgstr "Tägliche Datenbank ist aktuell\n"
+
+#~ msgid "daily updated\n"
+#~ msgstr "Tägliche Datenbank aktualisiert\n"
+
+#~ msgid "bytecode is up to date\n"
+#~ msgstr "Bytecode ist aktuell\n"
+
+#~ msgid "bytecode updated\n"
+#~ msgstr "Bytecode aktualisiert\n"
+
+#~ msgid "Scanning..."
+#~ msgstr "Überprüfe..."
+
+#~ msgid "Antiviral"
+#~ msgstr "Anti-Virus"
+
+#~ msgid "LibClamAV version"
+#~ msgstr "LibClamAV Version"
+
+#~ msgid "Signature version"
+#~ msgstr "Signatur version"
